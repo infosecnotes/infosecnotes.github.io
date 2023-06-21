@@ -1,0 +1,3 @@
+[submodule "themes/codelabs-hugo-theme"]
+	path = themes/codelabs-hugo-theme
+	url = https://github.com/cihatyildiz/codelabs-hugo-theme
